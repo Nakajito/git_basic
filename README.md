@@ -1,3 +1,12 @@
+# GIT
+Git es un sistema de control de versiones distribuido que te permite registrar los cambios que haces en tus archivos y volver a versiones anteriores si algo sale mal.
+
+* Git está optimizado para guardar cambios de forma incremental.
+
+* Permite contar con un historial, regresar a una versión anterior y agregar funcionalidades.
+
+* Lleva un registro de los cambios que otras personas realicen en los archivos.
+
 # git_basic
 
 Conocer la versión de git
