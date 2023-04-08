@@ -1,3 +1,4 @@
 nk tiene 30 años
 vive en el mundo
 aprende data engineer
+esta iniciando con cursos
