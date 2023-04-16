@@ -6,3 +6,8 @@ body {
     width: 70%;
     border: 1px solid red;
 }
+
+.cabecera {
+    border: 7px dotted #ff6550;
+    background: rgba(104,91,91,0.08);
+}
